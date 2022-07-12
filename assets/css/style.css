@@ -1,0 +1,27 @@
+/* general styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Authentication Box */
+fieldset {
+    margin: 20px auto;
+    width: 55%;
+    padding: 15px 20px;
+}
+
+/* Margin Top Buttons */
+fieldset div {
+    margin-top: 10px;
+}
+
+/* Buttons */
+input[type="submit"] {
+    padding: 2px 6px;
+}
+
+input[type="reset"] {
+    padding: 2px 6px;
+}
